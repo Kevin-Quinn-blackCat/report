@@ -16,7 +16,7 @@
     2.  UltraScale / UltraScale+ FPGA (20nm / 16nm FinFET)
         1.  Kintex UltraScale / UltraScale+
         2.  Virtex UltraScale / UltraScale+
-    3.  Versal ACAP (7nm)
+    3.  Versal ACAP (7nm)[**错误:ACAP应该是Soc的超集,而不是纯FPGA系统,属于Soc下一代产品,片上集成Ps,Pl,AIE三个核心**]
         1.  Versal Prime 系列
         2.  Versal AI Core 系列
         3.  Versal AI Edge 系列
